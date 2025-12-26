@@ -12,6 +12,7 @@
 1. VisualStudio Code
 2. Telebot
 3. База данных
+4. sqlite3
 
 ## проект состит из: 
 main.py - основной файл бота
